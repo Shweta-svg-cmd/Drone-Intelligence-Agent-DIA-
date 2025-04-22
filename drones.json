@@ -1,26 +1,22 @@
 [
-  {
-    "id": "DR-Alpha", "battery": 85, "distance": 320, "obstacles": 2,
-    "type": "quadcopter", "payload": 1.5, "mission": "delivery"
-  },
-  {
-    "id": "DR-Beta", "battery": 70, "distance": 150, "obstacles": 0,
-    "type": "hexacopter", "payload": 2.0, "mission": "surveillance"
-  },
-  {
-    "id": "DR-Charlie", "battery": 60, "distance": 200, "obstacles": 1,
-    "type": "quadcopter", "payload": 1.2, "mission": "mapping"
-  },
-  {
-    "id": "DR-Delta", "battery": 95, "distance": 100, "obstacles": 3,
-    "type": "octocopter", "payload": 3.0, "mission": "rescue"
-  },
-  {
-    "id": "DR-Echo", "battery": 40, "distance": 80, "obstacles": 0,
-    "type": "quadcopter", "payload": 0.5, "mission": "inspection"
-  },
-  {
-    "id": "DR-Foxtrot", "battery": 90, "distance": 180, "obstacles": 2,
-    "type": "hexacopter", "payload": 2.5, "mission": "delivery"
-  }
+  {"id": "DR-Alpha", "battery": 95, "distance": 100, "obstacles": 3, "payload": 3.0, "mission": "rescue"},
+  {"id": "DR-Beta", "battery": 90, "distance": 200, "obstacles": 5, "payload": 5.0, "mission": "delivery"},
+  {"id": "DR-Gamma", "battery": 85, "distance": 150, "obstacles": 4, "payload": 4.5, "mission": "surveillance"},
+  {"id": "DR-Delta", "battery": 80, "distance": 120, "obstacles": 2, "payload": 3.2, "mission": "rescue"},
+  {"id": "DR-Omega", "battery": 75, "distance": 180, "obstacles": 6, "payload": 3.8, "mission": "delivery"},
+  {"id": "DR-Zeta", "battery": 65, "distance": 130, "obstacles": 3, "payload": 2.9, "mission": "rescue"},
+  {"id": "DR-Epsilon", "battery": 60, "distance": 160, "obstacles": 7, "payload": 4.0, "mission": "delivery"},
+  {"id": "DR-Theta", "battery": 85, "distance": 90, "obstacles": 1, "payload": 3.1, "mission": "surveillance"},
+  {"id": "DR-Iota", "battery": 70, "distance": 200, "obstacles": 5, "payload": 4.3, "mission": "delivery"},
+  {"id": "DR-Kappa", "battery": 88, "distance": 110, "obstacles": 4, "payload": 3.5, "mission": "rescue"},
+  {"id": "DR-Lambda", "battery": 82, "distance": 140, "obstacles": 2, "payload": 4.1, "mission": "surveillance"},
+  {"id": "DR-Mu", "battery": 78, "distance": 190, "obstacles": 6, "payload": 5.0, "mission": "delivery"},
+  {"id": "DR-Nu", "battery": 74, "distance": 160, "obstacles": 3, "payload": 3.2, "mission": "rescue"},
+  {"id": "DR-Xi", "battery": 80, "distance": 220, "obstacles": 4, "payload": 4.0, "mission": "delivery"},
+  {"id": "DR-Pi", "battery": 90, "distance": 140, "obstacles": 5, "payload": 3.7, "mission": "surveillance"},
+  {"id": "DR-Rho", "battery": 76, "distance": 150, "obstacles": 2, "payload": 2.9, "mission": "rescue"},
+  {"id": "DR-Sigma", "battery": 84, "distance": 130, "obstacles": 4, "payload": 3.5, "mission": "delivery"},
+  {"id": "DR-Tau", "battery": 79, "distance": 160, "obstacles": 3, "payload": 4.2, "mission": "surveillance"},
+  {"id": "DR-Upsilon", "battery": 91, "distance": 180, "obstacles": 6, "payload": 4.0, "mission": "delivery"},
+  {"id": "DR-Phi", "battery": 89, "distance": 200, "obstacles": 5, "payload": 4.5, "mission": "rescue"}
 ]
