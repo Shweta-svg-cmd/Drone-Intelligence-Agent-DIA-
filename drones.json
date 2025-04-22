@@ -1,0 +1,26 @@
+[
+  {
+    "id": "DR-Alpha", "battery": 85, "distance": 320, "obstacles": 2,
+    "type": "quadcopter", "payload": 1.5, "mission": "delivery"
+  },
+  {
+    "id": "DR-Beta", "battery": 70, "distance": 150, "obstacles": 0,
+    "type": "hexacopter", "payload": 2.0, "mission": "surveillance"
+  },
+  {
+    "id": "DR-Charlie", "battery": 60, "distance": 200, "obstacles": 1,
+    "type": "quadcopter", "payload": 1.2, "mission": "mapping"
+  },
+  {
+    "id": "DR-Delta", "battery": 95, "distance": 100, "obstacles": 3,
+    "type": "octocopter", "payload": 3.0, "mission": "rescue"
+  },
+  {
+    "id": "DR-Echo", "battery": 40, "distance": 80, "obstacles": 0,
+    "type": "quadcopter", "payload": 0.5, "mission": "inspection"
+  },
+  {
+    "id": "DR-Foxtrot", "battery": 90, "distance": 180, "obstacles": 2,
+    "type": "hexacopter", "payload": 2.5, "mission": "delivery"
+  }
+]
